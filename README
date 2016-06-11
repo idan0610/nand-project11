@@ -1,0 +1,24 @@
+daph.kaplan, idan0610
+===============================================================================
+Daphna Kaplan, ID 204092613, daph.kaplan@mail.huji.ac.il
+Idan Refaeli, ID 305681132, idan.refaeli@mail.huji.ac.il
+===============================================================================
+
+                           Project 10 - Compilation
+                           ------------------------
+  
+
+Submitted Files
+---------------
+README 			        - This file.
+JackCompiler.py 	    - The JackCompiler program
+JackTokenizer.py        - The JackTokenizer class
+CompilationEngine.py    - The CompilationEngine class
+SymbolTable.py          - The SymbolTable class
+VMWriter.py             - The VMWriter class
+JackCompiler 		    - Shell script to run the JackAnalyzer
+Makefile		        - Makefile for the project
+
+Remarks
+-------
+NAND IS SO FUN!!!!!
